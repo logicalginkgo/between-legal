@@ -108,4 +108,4 @@
   ## 12. Contact Us
 
   If you have questions about this Privacy Policy, please contact us at:
-  **support@betweenapp.com**
+  **help.betweenusapp@gmail.com**

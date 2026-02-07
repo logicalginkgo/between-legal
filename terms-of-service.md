@@ -77,7 +77,7 @@
 
   ## 11. Contact Information
 
-  If you have questions about these Terms, please contact us at: **support@betweenapp.com**
+  If you have questions about these Terms, please contact us at: **help.betweenusapp@gmail.com**
 
   And the Privacy Policy — create privacy-policy.md:
 
@@ -176,4 +176,4 @@
 
   ## 12. Contact Us
 
-  If you have questions about this Privacy Policy, please contact us at: **support@betweenapp.com**
+  If you have questions about this Privacy Policy, please contact us at: **help.betweenusapp@gmail.com**
